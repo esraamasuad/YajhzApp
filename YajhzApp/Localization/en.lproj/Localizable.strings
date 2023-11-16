@@ -1,0 +1,13 @@
+/* 
+  Localizable.strings
+  It_graduate
+
+  Created by Mahmoud Ibaraheim on 6/3/20.
+  Copyright © 2020 MahmoudOrganization. All rights reserved.
+*/
+
+"AppRegularFont" = "Montserrat-Regular";
+"AppBoldFont" = "Montserrat-Bold";
+//"AppRegularFont" = "RobotoCondensed-Regular";
+//"AppBoldFont" = "RobotoCondensed-Bold";
+

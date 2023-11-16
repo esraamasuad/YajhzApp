@@ -1,0 +1,30 @@
+/* 
+  CameraUI.strings
+  Grabaton
+
+  Created by Ahmed Maher on 1/1/20.
+  Copyright © 2020 Ahmed Maher. All rights reserved.
+*/
+
+"YPImagePickerAlbums" = "البومات";
+"YPImagePickerCancel" = "إلغاء";
+"YPImagePickerCover" = "الغلاف";
+"YPImagePickerCrop" = "قص";
+"YPImagePickerDone" = "تم";
+"YPImagePickerFilter" = "فلتر";
+"YPImagePickerLibrary" = "المكتبة";
+"YPImagePickerNext" = "التالي";
+"YPImagePickerOk" = "موافق";
+"YPImagePickerPermissionDeniedPopupCancel" = "إلغاء";
+"YPImagePickerPermissionDeniedPopupGrantPermission" = "السماح بالوصول";
+"YPImagePickerPermissionDeniedPopupMessage" = "يرجى السماح بالوصول";
+"YPImagePickerPermissionDeniedPopupTitle" = "الطلب مرفوض";
+"YPImagePickerPhoto" = "صورة";
+"YPImagePickerProcessing" = "معالجة..";
+"YPImagePickerSave" = "حفظ";
+"YPImagePickerTrim" = "قص";
+"YPImagePickerVideo" = "فيديو";
+"YPImagePickerVideoDurationTitle" = "مدة الفيديو";
+"YPImagePickerVideoTooLong" = "ثانية %@ اختار فيديو بمدة اقل من ";
+"YPImagePickerVideoTooShort" = "الفيديو يجب ان يكون على الآقل %@ ثانية";
+"YPImagePickerWarningItemsLimit" = "الحد المسموح هوه %d صورة او فيديو";

@@ -1,0 +1,105 @@
+PODS:
+  - Alamofire (4.9.1)
+  - Bond (7.8.1):
+    - Differ (~> 1.4)
+    - ReactiveKit (~> 3.14)
+  - Cosmos (21.0.0)
+  - Differ (1.4.5)
+  - FCAlertView (1.4.0)
+  - IQKeyboardManagerSwift (6.5.9)
+  - JGProgressHUD (2.2)
+  - KeychainSwift (19.0.0)
+  - Kingfisher (5.13.4):
+    - Kingfisher/Core (= 5.13.4)
+  - Kingfisher/Core (5.13.4)
+  - lottie-ios (3.3.0)
+  - MXParallaxHeader (1.1.0)
+  - PromisesObjC (1.2.12)
+  - PromisesSwift (1.2.12):
+    - PromisesObjC (= 1.2.12)
+  - ReachabilitySwift (4.3.1)
+  - ReactiveKit (3.19.1)
+  - SkeletonView (1.8.2)
+  - SwiftMessages (7.0.1):
+    - SwiftMessages/App (= 7.0.1)
+  - SwiftMessages/App (7.0.1)
+  - SwiftValidator (4.0.0)
+  - SwiftyJSON (5.0.1)
+  - ViewAnimator (3.1.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.9.1)
+  - Bond
+  - Cosmos (~> 21.0)
+  - FCAlertView
+  - IQKeyboardManagerSwift (~> 6.5.0)
+  - JGProgressHUD (~> 2.1)
+  - KeychainSwift (~> 19.0.0)
+  - Kingfisher (~> 5.13.0)
+  - lottie-ios
+  - MXParallaxHeader
+  - PromisesSwift (~> 1.2.8)
+  - ReachabilitySwift (~> 4.3.0)
+  - SkeletonView (= 1.8.2)
+  - SwiftMessages (~> 7.0.0)
+  - SwiftValidator (from `https://github.com/jpotts18/SwiftValidator.git`, tag `4.2.0`)
+  - SwiftyJSON (~> 5.0)
+  - ViewAnimator
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - Bond
+    - Cosmos
+    - Differ
+    - FCAlertView
+    - IQKeyboardManagerSwift
+    - JGProgressHUD
+    - KeychainSwift
+    - Kingfisher
+    - lottie-ios
+    - MXParallaxHeader
+    - PromisesObjC
+    - PromisesSwift
+    - ReachabilitySwift
+    - ReactiveKit
+    - SkeletonView
+    - SwiftMessages
+    - SwiftyJSON
+    - ViewAnimator
+
+EXTERNAL SOURCES:
+  SwiftValidator:
+    :git: https://github.com/jpotts18/SwiftValidator.git
+    :tag: 4.2.0
+
+CHECKOUT OPTIONS:
+  SwiftValidator:
+    :git: https://github.com/jpotts18/SwiftValidator.git
+    :tag: 4.2.0
+
+SPEC CHECKSUMS:
+  Alamofire: 85e8a02c69d6020a0d734f6054870d7ecb75cf18
+  Bond: 87075c7f20f37ea3e73dc7057fce839787bf46eb
+  Cosmos: 3dfb6e4ba48bd48b8c9aa2a77048ae11ed114f96
+  Differ: 3b6bd78e2b20cc795d9a86f7641d087524e4273e
+  FCAlertView: fdddd63381898c1d1a5a20c9f084fbd2c6d12f8b
+  IQKeyboardManagerSwift: 6e839c575c4aa1078d58a596e41244e77abe918f
+  JGProgressHUD: d83d7a981b85d11205e19ff8ad5bb9c40571c847
+  KeychainSwift: a06190cf933ad46b1e0abc3d77d29c06331715c7
+  Kingfisher: d2279a7abece3c7f25a80cd2b7f363ca5cf3f44c
+  lottie-ios: 6ac74dcc09904798f59b18cb3075c089d76be9ae
+  MXParallaxHeader: de3c867e10ba46e8f6e20c8ee1f2a910372b3b94
+  PromisesObjC: 3113f7f76903778cf4a0586bd1ab89329a0b7b97
+  PromisesSwift: 64085cf6e5fc1b5001f90cf31e87a1f1621fefee
+  ReachabilitySwift: 4032e2f59586e11e3b0ebe15b167abdd587a388b
+  ReactiveKit: a36ebeb959fe6852dd674cc423163bfffb7e0541
+  SkeletonView: bb27c39857e5492136f02ee8a3aa78de55d12ecd
+  SwiftMessages: b577dc7043be8b299857ab35bb663dbff6483bd0
+  SwiftValidator: 249b6b3ae3b294266c5b9de134d94f18f2d5aa47
+  SwiftyJSON: 2f33a42c6fbc52764d96f13368585094bfd8aa5e
+  ViewAnimator: a9ceed80266e00fd435ec4fb99b2df64d580d0e4
+
+PODFILE CHECKSUM: 85bbf3ddff515533f16ba7ba875024d726c824cd
+
+COCOAPODS: 1.11.3
